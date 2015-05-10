@@ -1,0 +1,22 @@
+{
+  "name": "khf",
+  "version": "1.0.0",
+  "description": "kinhom frontend framework for develpment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/landy2014/khf.git"
+  },
+  "keywords": [
+    "khf"
+  ],
+  "author": "linyandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/landy2014/khf/issues"
+  },
+  "homepage": "https://github.com/landy2014/khf"
+}

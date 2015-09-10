@@ -1,5 +1,8 @@
-define(function(require){
+var khf = require("../lib/khf");
 
-   console.log("sfdf");
+var index = module.exports = {
+	init:function(argv){
+		khf.init(argv);
+	}
+};
 
-});

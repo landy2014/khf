@@ -13,6 +13,9 @@
   "keywords": [
     "khf"
   ],
+  "bin": {
+    "khf": "bin/khf"
+  },
   "author": "linyandi",
   "license": "ISC",
   "bugs": {

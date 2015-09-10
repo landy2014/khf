@@ -1,4 +1,4 @@
-var khf = require("../lib/khf");
+var khf = require("../lib/khf.js");
 
 var index = module.exports = {
 	init:function(argv){
